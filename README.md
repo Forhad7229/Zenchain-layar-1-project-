@@ -1,2 +1,14 @@
-# Zenchain-layar-1-project-
-ZenChain Layer-1 Project with Staking, NFT Minting, Bridge, and Faucet. A full blockchain dev starter template using Solidity, Hardhat, and React/Next.js for frontend. GitHub-ready structure for easy management and future deployment.
+# 🚀 ZenChain Layer-1 Project
+
+This project contains 4 smart contracts:  
+
+- ✅ **Staking Contract** – Users can deposit tokens and earn rewards.  
+- ✅ **NFT Mint Contract** – Users can mint NFTs.  
+- ✅ **Bridge Contract** – Token swap / transfer simulation for testnet.  
+- ✅ **Faucet Contract** – Users can claim free testnet tokens.  
+
+All contracts are written in **Solidity** using **Hardhat**.
+
+---
+
+## 📂 Project Structure
